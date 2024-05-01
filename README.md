@@ -72,8 +72,9 @@ We welcome contributions from the community. Whether you're fixing bugs, adding 
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed information on how to contribute.
 
-## Screen Capture
+## Screenshot
 <img width="400" alt="image" src="https://github.com/solutionforest/Watchdog/assets/68211972/525656a9-2739-48b6-9f5f-822960d45356">
+
 <img width="400" alt="image" src="https://github.com/solutionforest/Watchdog/assets/68211972/e3bd6957-c2ac-49cb-a2f8-ca3f7cbccfc4">
 
 ## License
