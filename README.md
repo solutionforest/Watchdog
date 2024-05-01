@@ -21,6 +21,15 @@ Welcome to the NativePHP Website Monitor, an open-source tool designed to help d
 - **Alert System:** Notifications for downtime and performance issues.
 - **Easy Configuration:** Simple setup process and easy to manage.
 
+
+## Wishlist
+
+- [ ] **Status Code Validation:** Ensure that monitored websites return a correct HTTP status code of 200, indicating that the site is not only up but also operational.
+- [ ] **Content Validation:** Check for specific keywords or phrases on the webpage to confirm that the correct content is being served.
+- [ ] **Performance Benchmarking:** Track and report on the loading times and responsiveness of the monitored sites, allowing for performance optimization.
+- [ ] **API Monitoring:** Extend monitoring capabilities to include RESTful APIs, ensuring that APIs respond correctly in both data and performance.
+- [ ] **Extended Notification Options:** Expand the alert system to include more customizable options such as SMS alerts, integration with Slack, or other real-time communication tools.
+
 ## Getting Started
 
 ### Prerequisites
@@ -29,6 +38,7 @@ Before you install the NativePHP Website Monitor, make sure you have the followi
 
 - PHP 8.2 or higher
 - Composer
+- NPM
 
 ### Installation
 
