@@ -52,7 +52,9 @@ Before you install the NativePHP Website Monitor, make sure you have the followi
    ```
 3. Install dependencies:
    ```bash
+   cp .env.example .env
    composer install
+   php artisan key:generate
    php artisan native:install
    ```
 
