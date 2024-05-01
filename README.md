@@ -19,7 +19,6 @@ Welcome to the NativePHP Website Monitor, an open-source tool designed to help d
 
 - **Real-time Monitoring:** Continuous monitoring of website uptime.
 - **Alert System:** Notifications for downtime and performance issues.
-- **Performance Metrics:** Insights into response times and server health.
 - **Easy Configuration:** Simple setup process and easy to manage.
 
 ## Getting Started
