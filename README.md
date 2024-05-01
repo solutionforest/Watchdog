@@ -35,11 +35,11 @@ Before you install the NativePHP Website Monitor, make sure you have the followi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/solutionforest/nativephp-website-monitor.git
+   git clone https://github.com/solutionforest/Watchdog.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd nativephp-website-monitor
+   cd Watchdog
    ```
 3. Install dependencies:
    ```bash
