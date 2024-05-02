@@ -11,7 +11,7 @@ We have built a collection of best-in-class products:
 - [GatherPro.events](https://gatherpro.events): A Event Photos management tools, Streamline Your Event Photos.
 - [Website CMS Management](https://filamentphp.com/plugins/solution-forest-cms-website): Website CMS Management
 
-# NativePHP Website Monitor
+# Watchdog (看門狗) - NativePHP Website Monitor (Desktop Application)
 
 Welcome to the NativePHP Website Monitor, an open-source tool designed to help developers and system administrators keep track of the uptime and performance of their websites. This project is built using NativePHP and utilizes the Spatie Laravel Uptime Monitor package for robust monitoring capabilities.
 
